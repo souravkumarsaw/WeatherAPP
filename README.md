@@ -2,7 +2,7 @@
 
 This project is on Creating an Android Weather App using Java. To get the weather information I used OpenWeatherMap API. Informations like Temperature, Pressure, Humidity, Weather status, Time of Sunrise and Sunset etc. are passed from the API.
 
-Visit the blog post on Create a Weather App using Java in Android
+
 
 
 
